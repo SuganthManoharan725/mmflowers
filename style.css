@@ -712,7 +712,7 @@ section.section1 a.links:hover {
 
 .marquee {
     color: #ffffff;
-    padding: 14px 0px;
+    padding: 10px 0px;
     font-family: 'Jost';
     font-size: 23px;
     letter-spacing: 0.5px;
@@ -722,7 +722,7 @@ section.section1 a.links:hover {
 .topbar {
     background-color: #000000;
     color: #ffffff;
-    padding: 10px;
+    padding: 7px;
     text-align: center;
     position: fixed;
     width: 100%;
