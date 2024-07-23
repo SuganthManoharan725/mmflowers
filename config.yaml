@@ -1,0 +1,20 @@
+topbar:
+  offer:
+    text: "Special Offer: Get 20% off all orders today!"                
+    
+  
+products:
+  categories:
+    arrangements:
+      - title: Flower Arrangement 1
+        image: ./assets/Product-img/productimg1.jpg
+      - title: Flower Arrangement 2
+        image: ./assets/Product-img/productimg2.jpg
+      # Add more arrangements
+    wreaths:
+      - title: Flower Wreath 1
+        image: ./assets/Product-img/productimg14.jpg
+      - title: Flower Wreath 2
+        image: ./assets/Product-img/productimg15.jpg
+      # Add more wreaths
+   
